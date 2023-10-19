@@ -1,2 +1,6 @@
 hi master branch
+<<<<<<< Updated upstream
 Another change in master
+=======
+master branch that i will rebase
+>>>>>>> Stashed changes
